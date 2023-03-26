@@ -1,0 +1,20 @@
+{
+  "name": "learn-framer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "pnpm --stream -r start",
+    "dev": "pnpm --stream -r run start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "framer-motion": "^6.5.1",
+    "framer1": "workspace:^0.1.0",
+    "react-icons": "^4.8.0",
+    "react-router-dom": "^6.9.0"
+  }
+}
